@@ -1,0 +1,45 @@
+C:\Users\nicla\Desktop\C# Projekt\Övningar\bin\Debug\net6.0\Övningar.exe
+C:\Users\nicla\Desktop\C# Projekt\Övningar\bin\Debug\net6.0\Övningar.deps.json
+C:\Users\nicla\Desktop\C# Projekt\Övningar\bin\Debug\net6.0\Övningar.runtimeconfig.json
+C:\Users\nicla\Desktop\C# Projekt\Övningar\bin\Debug\net6.0\Övningar.dll
+C:\Users\nicla\Desktop\C# Projekt\Övningar\bin\Debug\net6.0\Övningar.pdb
+C:\Users\nicla\Desktop\C# Projekt\Övningar\obj\Debug\net6.0\Övningar.csproj.AssemblyReference.cache
+C:\Users\nicla\Desktop\C# Projekt\Övningar\obj\Debug\net6.0\Övningar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicla\Desktop\C# Projekt\Övningar\obj\Debug\net6.0\Övningar.AssemblyInfoInputs.cache
+C:\Users\nicla\Desktop\C# Projekt\Övningar\obj\Debug\net6.0\Övningar.AssemblyInfo.cs
+C:\Users\nicla\Desktop\C# Projekt\Övningar\obj\Debug\net6.0\Övningar.csproj.CoreCompileInputs.cache
+C:\Users\nicla\Desktop\C# Projekt\Övningar\obj\Debug\net6.0\Övningar.dll
+C:\Users\nicla\Desktop\C# Projekt\Övningar\obj\Debug\net6.0\refint\Övningar.dll
+C:\Users\nicla\Desktop\C# Projekt\Övningar\obj\Debug\net6.0\Övningar.pdb
+C:\Users\nicla\Desktop\C# Projekt\Övningar\obj\Debug\net6.0\Övningar.genruntimeconfig.cache
+C:\Users\nicla\Desktop\C# Projekt\Övningar\obj\Debug\net6.0\ref\Övningar.dll
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\bin\Debug\net6.0\Övningar.exe
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\bin\Debug\net6.0\Övningar.deps.json
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\bin\Debug\net6.0\Övningar.runtimeconfig.json
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\bin\Debug\net6.0\Övningar.dll
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\bin\Debug\net6.0\Övningar.pdb
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\obj\Debug\net6.0\Övningar.csproj.AssemblyReference.cache
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\obj\Debug\net6.0\Övningar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\obj\Debug\net6.0\Övningar.AssemblyInfoInputs.cache
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\obj\Debug\net6.0\Övningar.AssemblyInfo.cs
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\obj\Debug\net6.0\Övningar.csproj.CoreCompileInputs.cache
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\obj\Debug\net6.0\Övningar.dll
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\obj\Debug\net6.0\refint\Övningar.dll
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\obj\Debug\net6.0\Övningar.pdb
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\obj\Debug\net6.0\Övningar.genruntimeconfig.cache
+C:\Users\nicla\Desktop\C# Projekt\Övning 1\obj\Debug\net6.0\ref\Övningar.dll
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\bin\Debug\net6.0\Övningar.exe
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\bin\Debug\net6.0\Övningar.deps.json
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\bin\Debug\net6.0\Övningar.runtimeconfig.json
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\bin\Debug\net6.0\Övningar.dll
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\bin\Debug\net6.0\Övningar.pdb
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\obj\Debug\net6.0\Övningar.csproj.AssemblyReference.cache
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\obj\Debug\net6.0\Övningar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\obj\Debug\net6.0\Övningar.AssemblyInfoInputs.cache
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\obj\Debug\net6.0\Övningar.AssemblyInfo.cs
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\obj\Debug\net6.0\Övningar.csproj.CoreCompileInputs.cache
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\obj\Debug\net6.0\Övningar.dll
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\obj\Debug\net6.0\refint\Övningar.dll
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\obj\Debug\net6.0\Övningar.pdb
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\obj\Debug\net6.0\Övningar.genruntimeconfig.cache
+C:\Users\nicla\OneDrive\Skrivbord\C# projekt\TheBook\obj\Debug\net6.0\ref\Övningar.dll
